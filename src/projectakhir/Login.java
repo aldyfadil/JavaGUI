@@ -34,7 +34,7 @@ public class Login extends javax.swing.JFrame {
 
         jLabel1.setText("Apa udah bisa Aldy?");
 
-        jLabel2.setText("jLabel2");
+        jLabel2.setText("Label yang lu Masukkan Udah ku ubah nih");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -48,7 +48,7 @@ public class Login extends javax.swing.JFrame {
                     .addGroup(layout.createSequentialGroup()
                         .addGap(86, 86, 86)
                         .addComponent(jLabel2)))
-                .addContainerGap(248, Short.MAX_VALUE))
+                .addContainerGap(115, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
